@@ -1,4 +1,4 @@
-# Get Next Line (GNL)  :tractor:
+# Get Next Line (GNL)  :mortar_board:
 
 <p align="center">
 	<b><i>Reading a line on a fd is way too tedious</i></b><br>
